@@ -3,12 +3,29 @@ node_modules/
 
 # Build files
 dist/
-.cache/
+.build/
+build/
+
+# Dependency directories
+bower_components/
+jspm_packages/
 
 # Editor files
 .vscode/
 .idea/
+*.sublime-*
 
 # OS-generated files
 .DS_Store
 Thumbs.db
+
+# Log files
+*.log
+
+# Compiled JavaScript files
+*.js
+*.js.map
+
+# Compiled CSS files
+*.css
+*.css.map
