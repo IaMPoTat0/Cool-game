@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Build files
+dist/
+.cache/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
